@@ -24,10 +24,10 @@ ICES Lab. 을 대표하는 홈페이지를 제작합니다.
 ## Installation
 `
 git clone https://github.com/ICES-Lab/ICES-HomePage.git
+
 npm i
 `
 
-## Browsers support
 
 ## Browsers support
 
