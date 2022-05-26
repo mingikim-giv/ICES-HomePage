@@ -1,7 +1,8 @@
 # ICES-HomePage
 ICES Lab. 을 대표하는 홈페이지를 제작합니다.
 
-<https://ices-lab.github.io/ICES-HomePage/>
+
+ > <https://ices-lab.github.io/ICES-HomePage/>
 
 
 ## 작업 규칙
