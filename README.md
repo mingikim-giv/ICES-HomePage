@@ -22,11 +22,11 @@ ICES Lab. 을 대표하는 홈페이지를 제작합니다.
   - 박사과정 및 학부생 프로필 작성
 
 ## Installation
-`
+```
 git clone https://github.com/ICES-Lab/ICES-HomePage.git
 
 npm i
-`
+```
 
 
 ## Browsers support
